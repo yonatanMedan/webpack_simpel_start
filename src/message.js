@@ -1,1 +1,1 @@
-export const message = "hello webpack";
+export const message = "hello yonatan ";

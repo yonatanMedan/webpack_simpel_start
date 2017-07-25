@@ -72,7 +72,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__message__ = __webpack_require__(1);
 //import example
 
-
 alert(__WEBPACK_IMPORTED_MODULE_0__message__["a" /* message */]);
 
 
@@ -81,7 +80,7 @@ alert(__WEBPACK_IMPORTED_MODULE_0__message__["a" /* message */]);
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-const message = "hello webpack";
+const message = "hello yonatan ";
 /* harmony export (immutable) */ __webpack_exports__["a"] = message;
 
 
